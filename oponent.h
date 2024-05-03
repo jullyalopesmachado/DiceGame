@@ -11,7 +11,7 @@ class Oponent{
 
 	private:
 
-	 vector <int> oponentDiceValues; //same as player
+	 vector <int> oponentDiceValues; 
 
 	public:
 
